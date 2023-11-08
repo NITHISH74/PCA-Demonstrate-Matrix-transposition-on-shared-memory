@@ -330,7 +330,7 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
 root@MidPC:/home/student/Desktop# 106
 ```
 
-![Uploading image.png…]()
+![image](https://github.com/NITHISH74/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94164665/bec4c1ee-47ad-442f-af94-637309bc0139)
 
 
 ## Result:
